@@ -1,0 +1,80 @@
+*{
+ margin: 0;
+ padding: 0;
+ text-decoration: none;
+ list-style: none;
+ box-sizing: border-box;
+ font-family: 'Poppins', sans-serif;
+}
+
+
+.flex-container{
+ background-color: gray;
+}
+
+
+nav ul li{
+ display: inline-block;
+ line-height: 80px;
+ margin: 0 100px;
+ padding: 5px 30px;
+}
+
+.flex-container button{
+ background-color: orange;
+ padding: 10px 30px;
+ border-radius: 5px;
+ color: white;
+}
+
+.Hero-text h1{
+ text-align: center;
+ font-size: 80px;
+ color: orange;
+}
+
+.Hero-text h5{
+ font-size: 30px;
+ text-align: center;
+ color: whitesmoke;
+}
+
+.Hero-text button{
+ background-color:orange;
+ padding: 5px 25px;
+ color: white;
+ border-radius: 5px;
+}
+
+.Hero-text input{
+ padding: 5px 10px;
+}
+
+
+.Hero-text form{
+ text-align: center;
+}
+
+.Hero-text h2{
+text-align: center;
+font-size: 25px;
+color: whitesmoke;
+margin-bottom: 20px;
+}
+
+
+
+.flex-stuffs h1{
+ text-align: center;
+ color: whitesmoke;
+ background-color: orange;
+ padding-bottom: 120px;
+ padding-top: 30px;
+}
+
+
+
+body{
+ background-color:rgb(64, 89, 109);
+}
+
